@@ -23,7 +23,23 @@ When you run the script, it automatically sets up:
 - `courses (id, title, instructor)`
 - `enrollments (id, student_id, course_id)`
 
-With sample data for you to play around with instantly.
+Choose what you want to do:
+```sql
+1. View a table
+2. Make a new table
+3. Update a table
+4. Delete a table
+5. Exit
+```
+Perform actions like:
+- Viewing and formatting any table  
+- Inserting new rows  
+- Updating fields in specific rows  
+- Deleting rows by selecting the row number  
+- Deleting entire tables  
+- Creating new tables with custom column names and types
+  
+With sample data for you to play around with instantly.  
 
 ---
 
